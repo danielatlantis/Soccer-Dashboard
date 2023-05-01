@@ -10,6 +10,6 @@ First, when importing new data into the system, open the R Shiny Data App. This 
 
 ## Example Images from Application
 
-![Player Path](Documentation/player_paths.pdf)
+![Player Path](Documentation/player_paths.png)
 
-![Sprint Bursts](Documentation/sprint_bursts.pdf)
+![Sprint Bursts](Documentation/sprint_bursts.png)

@@ -1,0 +1,13 @@
+Location_ID,College_Loc,Full_Address,Full_College,City,State,corner_id,Latitude,Longitude
+1,Null,WakeMed Soccer Park,Null,Raleigh,NC,1,35.786636,-78.754707
+1,Null,WakeMed Soccer Park,Null,Raleigh,NC,2,35.786665,-78.755459
+1,Null,WakeMed Soccer Park,Null,Raleigh,NC,3,35.785652,-78.754761
+1,Null,WakeMed Soccer Park,Null,Raleigh,NC,4,35.785681,-78.755514
+2,Pitt,Ambrose Urbanic Field,University of Pittsbugrh,Pittsburgh,PA,1,40.444045,-79.967192
+2,Pitt,Ambrose Urbanic Field,University of Pittsbugrh,Pittsburgh,PA,2,40.444811,-79.968002
+2,Pitt,Ambrose Urbanic Field,University of Pittsbugrh,Pittsburgh,PA,3,40.44443,-79.966566
+2,Pitt,Ambrose Urbanic Field,University of Pittsbugrh,Pittsburgh,PA,4,40.445197,-79.967378
+3,Kentucky,Wendell & Vickie Bell Soccer Complex,University of Kentucky,Lexington,KY,1,38.017052,-84.500708
+3,Kentucky,Wendell & Vickie Bell Soccer Complex,University of Kentucky,Lexington,KY,2,38.017264,-84.501437
+3,Kentucky,Wendell & Vickie Bell Soccer Complex,University of Kentucky,Lexington,KY,3,38.017978,-84.500279
+3,Kentucky,Wendell & Vickie Bell Soccer Complex,University of Kentucky,Lexington,KY,4,38.018187,-84.501009

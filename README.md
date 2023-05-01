@@ -7,3 +7,5 @@ This was a project tasked to my data science team, where our client wanted a sys
 ## Getting started
 
 First, when importing new data into the system, open the R Shiny Data App. This can be done by opening the ui.R, server.R, or global.R files located in the “R Shiny Data App” folder in RStudio and running them. Prior to running the files, a few packages may need to be installed in RStudio (this will only need to be done once) and these packages can be found at the top of the global.R file. Once the application is open, a welcome page will be displayed with a more detailed step-by-step instruction manual on how to use the data application. The process for opening the main application is the same as the data application. Open up one of ui.R, server.R, or global.R located in the “RShiny App” folder in RStudio. Then ensure that all needed libraries are downloaded and press run to open the application.
+
+![Player Path](Documentation/player_paths.png)
